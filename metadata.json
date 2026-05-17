@@ -1,0 +1,6 @@
+{
+  "name": "Rakshini",
+  "description": "Protection Beyond Panic. A premium AI-powered safety platform with smart routing, emergency SOS, and community reports.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
